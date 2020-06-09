@@ -2,5 +2,5 @@ msgid "Hello"
 msgstr "Hello"
 
 msgctxt "test"
-msgid "Test
+msgid "Test"
 msgstr "Test"
