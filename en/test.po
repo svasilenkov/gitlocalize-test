@@ -1,6 +1,6 @@
 msgid "Hello"
 msgstr "Hello"
 
-msgctx "test"
+msgctxt "test"
 msgid "Test
 msgstr "Test"
