@@ -9,7 +9,7 @@ Hello world
 
 One two three
 
-Test text with **bold** and *italic* markup!
+Test text with **bold** and *italic* markup.
 
 ```
 console.log('Hello, world!');
