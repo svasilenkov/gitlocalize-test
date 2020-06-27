@@ -4,4 +4,4 @@
 
 ### Test
 
-This is *super* **test**.
+This is *super* **test**!
