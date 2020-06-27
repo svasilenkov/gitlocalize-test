@@ -2,4 +2,6 @@
 
 ## Super test
 
-This is *super* **test**!
+### Test
+
+This is *super* **test**.
